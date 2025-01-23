@@ -1,6 +1,6 @@
 # Event Management System API
 
-API do zarządzania wydarzeniami, biletami, powiadomieniami i użytkownikami w systemie Event Management.
+API do zarządzania wydarzeniami, biletami i użytkownikami w systemie Event Management.
 
 ## Technologie
 
