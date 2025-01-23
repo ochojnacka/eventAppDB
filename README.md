@@ -131,7 +131,7 @@ Usuwa konto użytkownika.
     ```
 
 - **Response:**
-    ````json
+    ```json
     {
         "message": "Konto zostało usunięte"
     }
