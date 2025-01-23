@@ -1,0 +1,110 @@
+db pass
+username: admin
+passwd: admin
+
+-----
+
+!-- EVENTS --!
+[
+  {
+    "title": "Konferencja IT",
+    "date": "2025-03-15",
+    "location": "Warszawa",
+    "categories": [
+      { "name": "Technologia" }
+    ]
+  },
+  {
+    "title": "Warsztaty AI",
+    "date": "2025-06-25",
+    "location": "Kraków",
+    "categories": [
+      { "name": "Edukacja" }
+    ]
+  },
+  {
+    "title": "Spotkanie z Grafiką",
+    "date": "2025-05-05",
+    "location": "Łódź",
+    "categories": [
+      { "name": "Sztuka" }
+    ]
+  },
+  {
+    "title": "Maraton Biegowy",
+    "date": "2025-06-20",
+    "location": "Gdańsk",
+    "categories": [
+      { "name": "Sport" }
+    ]
+  },
+  {
+    "title": "Warsztaty Programowania",
+    "date": "2025-03-19",
+    "location": "Poznań",
+    "categories": [
+      { "name": "Technologia" }
+    ]
+  },
+  {
+    "title": "Sympozjum Naukowe",
+    "date": "2025-08-10",
+    "location": "Warszawa",
+    "categories": [
+      { "name": "Edukacja" }
+    ]
+  }
+]
+
+
+!-- USERS --!
+
+  {
+    "email": "annanowak@example.com",
+    "name": "Anna Nowak",
+    "password": "password"
+  },
+  {
+    "email": "jannowak@example.com",
+    "name": "Jan Nowak",
+    "password": "password"
+  },
+  {
+    "email": "ewakowalska@example.com",
+    "name": "Ewa Kowalska",
+    "password": "password"
+  },
+  {
+    "email": "adamkowalski@example.com",
+    "name": "Adam Kowalski",
+    "password": "password"    
+  },
+  {
+    "email": "mariamazur@example.com",
+    "name": "Maria Mazur",
+    "password": "password"
+  },
+  {
+    "email": "tomaszmazur@example.com",
+    "name": "Tomasz Mazur",
+    "password": "password"
+  }
+
+!-- TICKETS --!
+
+{
+	"eventId": "",
+	"price": 150
+}
+{
+	"eventId": "",
+	"price": 120
+}
+{
+	"eventId": "",
+	"price": 200
+}
+{
+	"eventId": "",
+	"price": 210
+}
